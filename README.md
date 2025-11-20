@@ -15,3 +15,17 @@ Long-Term Memory (LTM): Stores and retrieves information across sessions using F
 
 **See full repository:**
 [*Agentic AI Memory Systems*](https://github.com/JashT14/AI-Memory-Systems)
+
+### 2. Java Embedded ML
+
+This project focuses on embedding machine-learning models directly inside Java applications:
+
+- Zero-overhead integration of ML into legacy Java monoliths
+- Inference inside the same JVM (no microservices, no external servers)
+- ONNX runtime + DJL for loading and running models
+- Endpoints demonstrating model inference (e.g., iris classification)
+- Architecture designed for edge devices and constrained enterprise environments
+
+
+**See full repository:**
+[*Java Embedded ML*](https://github.com/JashT14/Java-Embedded-ML)
