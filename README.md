@@ -10,8 +10,8 @@ This repository acts as a structured master folder that **redirects users to ind
 
 This project demonstrates two fundamental memory systems for AI agents:
 
-Short-Term Memory (STM): Maintains conversation context within a session using LangGraph's checkpoint system
-Long-Term Memory (LTM): Stores and retrieves information across sessions using FAISS vector database
+- Short-Term Memory (STM): Maintains conversation context within a session using LangGraph's checkpoint system
+- Long-Term Memory (LTM): Stores and retrieves information across sessions using FAISS vector database
 
 **See full repository:**
 [*Agentic AI Memory Systems*](https://github.com/JashT14/AI-Memory-Systems)
