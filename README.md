@@ -29,3 +29,17 @@ This project focuses on embedding machine-learning models directly inside Java a
 
 **See full repository:**
 [*Java Embedded ML*](https://github.com/JashT14/Java-Embedded-ML)
+
+### 3. KnowledgeVault — Local Notes App (with RAG Implementation)
+
+A privacy-focused, on-device knowledge system that converts your personal notes into a searchable, intelligent knowledge base using Retrieval-Augmented Generation (RAG). Designed as a completely offline alternative to cloud-based AI note systems.
+
+- Local-first architecture with zero external API dependencies  
+- Notes → chunking → embeddings → vector store pipeline  
+- RAG retrieval to answer queries directly from your stored notes  
+- Clean interface for adding, editing, and managing notes  
+- Supports quantized local LLM inference  
+- Ideal for personal assistants, study workflows, and offline knowledge engines  
+
+**See full repository:**  
+[**KnowledgeVault**](https://github.com/JashT14/KnowledgeVault)
