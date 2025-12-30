@@ -1,6 +1,6 @@
 # Winter Projects 2025/26
 
-A central hub for all projects built during **Winter 2025**. Each project explores a high‑impact domain - Agentic AI, backend systems, embedded ML, optimizations, and scalable architecture - packaged cleanly so reviewers, recruiters, and collaborators can navigate effortlessly.
+A central hub for all projects built during **Winter 2025/26**. Each project explores a high‑impact domain - Agentic AI, backend systems, embedded ML, optimizations, and scalable architecture - packaged cleanly so reviewers, recruiters, and collaborators can navigate effortlessly.
 
 This repository acts as a structured master folder that **redirects users to individual project repositories** while maintaining a consistent layout and standardized documentation.
 
