@@ -30,7 +30,7 @@ This project focuses on embedding machine-learning models directly inside Java a
 **See full repository:**
 [*Java Embedded ML*](https://github.com/JashT14/Java-Embedded-ML)
 
-### 3. KnowledgeVault — Local Notes App (with RAG Implementation)
+### 3. KnowledgeVault - Local Notes App (with RAG Implementation)
 
 A privacy-focused, on-device knowledge system that converts your personal notes into a searchable, intelligent knowledge base using Retrieval-Augmented Generation (RAG). Designed as a completely offline alternative to cloud-based AI note systems.
 
@@ -44,7 +44,7 @@ A privacy-focused, on-device knowledge system that converts your personal notes 
 **See full repository:**  
 [**KnowledgeVault**](https://github.com/JashT14/KnowledgeVault)
 
-### 4. VectorVault — Offline Semantic Search Engine (C + WebAssembly)
+### 4. VectorVault - Offline Semantic Search Engine (C + WebAssembly)
 
 **VectorVault** is a low-level, from-first-principles implementation of a semantic search engine, built entirely in **C** and compiled to **WebAssembly (WASM)**. The project explores how modern semantic search concepts—embeddings, vector similarity, and ranking - can be implemented **without Python, ML frameworks, or cloud services**.
 
