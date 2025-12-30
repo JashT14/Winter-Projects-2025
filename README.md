@@ -43,3 +43,23 @@ A privacy-focused, on-device knowledge system that converts your personal notes 
 
 **See full repository:**  
 [**KnowledgeVault**](https://github.com/JashT14/KnowledgeVault)
+
+### 4. VectorVault — Offline Semantic Search Engine (C + WebAssembly)
+
+**VectorVault** is a low-level, from-first-principles implementation of a semantic search engine, built entirely in **C** and compiled to **WebAssembly (WASM)**. The project explores how modern semantic search concepts—embeddings, vector similarity, and ranking - can be implemented **without Python, ML frameworks, or cloud services**.
+
+It is designed as a systems-level learning project that prioritizes **control, performance, and architectural clarity** over abstraction.
+
+* Implements semantic search using **GloVe word embeddings**
+* End-to-end pipeline: text ingestion → vectorization → similarity computation
+* Cosine similarity implemented manually in C
+* Fully offline execution model
+* Compiled to WebAssembly for browser-level portability
+* Demonstrates how ML primitives work beneath high-level libraries
+* Emphasizes memory layout, numerical computation, and algorithmic efficiency
+
+This project serves as a **ground-truth reference** for understanding how embedding-based retrieval systems function internally, making it especially relevant for systems engineers, ML infra learners, and anyone interested in stripping AI systems down to their mechanical core.
+
+**See full repository:**
+[**VectorVault**](https://github.com/JashT14/VectorVault)
+
